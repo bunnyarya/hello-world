@@ -1,0 +1,46 @@
+h1
+{
+    color: #caf0f8; 
+    text-align: center; 
+    font-weight: 400; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-size: 50px;
+}
+
+body
+{
+    background-color: #03045e;
+    color: #90e0ef; 
+}
+
+h2
+{
+    text-align: left; 
+    color: #95B7A6; 
+    font-size: 30px;
+}
+
+a
+{
+    font-size: 30px; color: #24bfde;
+    text-align: center;
+}
+
+a + :hover
+{
+    font-size: 35px; color: #ADE8F4;
+}
+
+nav
+{
+    background-color: black;  
+    text-align: center;
+    border-right-color: #444444; border-left-color: #bbbbbb;
+    border-bottom-color: #444444; border-top-color: #bbbbbb;
+    border-right-style: solid; border-left-style: solid;
+    border-bottom-style: solid; border-top-style: solid;
+}
+
+
+
+
